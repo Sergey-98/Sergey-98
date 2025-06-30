@@ -1,6 +1,9 @@
 [![Sergey-98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-98&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Codewars Profile stats](https://www.codewars.com/users/Sergey-98/badges/large)
+
+[![Sergey-98 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-98&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+Hide Progress Bars
 <!--
 **Sergey-98/Sergey-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
