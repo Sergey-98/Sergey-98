@@ -1,3 +1,10 @@
+hrefa <="https://github.com/anuraghazra/github-readme-stats ">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sergey-98 " />
+</a>
+<a href="https://github.com/anuraghazra/convoychat ">
+  <img height=200 align="center" src=" https://github-readme-stats.vercel.app/api/top-langs?username=Sergey-98&layout=compact&langs_count=8&card_width=320 " />
+</a>
+
 [![Sergey-98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-98&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Codewars Profile stats](https://www.codewars.com/users/Sergey-98/badges/large)
